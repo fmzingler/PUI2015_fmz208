@@ -34,10 +34,10 @@ plots can be visualized on ipython notebook, also represented below:
 
 3) plot sample means together
 ![Alt text](https://github.com/fmzingler/PUI2015_fmz208/blob/master/Homework3/Histogram.png)
-thiss plot shows that teh sample size tens to be very large around the mean, which is expected accoriding to the amount of incidents around the meaan for each individual distribution.
+this plot shows that the sample size tens to be very large around the mean, which is expected accoriding to the amount of incidents around the meaan for each individual distribution.
 Fit a Gaussian
 ![Alt text](https://github.com/fmzingler/PUI2015_fmz208/blob/master/Homework3/Gaussian.png)
 
 
 ASSIGNMENT 2
-COmmenst and results insied the ipython notebook, as follows the script given in class with modification for the new rows and parameters.
+Comments and results inside the ipython notebook, as follows the script given in class with modification for the new rows and parameters.
