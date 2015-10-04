@@ -27,6 +27,6 @@ August data is larger then April, but the distribuition for the trips dusring th
 
 For both months evaluated, the Null Hypothesis could be rejected. In April, the z score resulted in 79.22, which is very large. In this case, a probabiility of p=0.9998 was used, which resulted in  a value smaller than thee level of significance established. In August, the z value was even bigger (127.70), providing the same result as April: The Null Hyothesis could be rejected. 
 
-The test selected can be considered appropriated because the samples are random and 
+The test selected can be considered appropriated because the samples are random and independent.
 
 
