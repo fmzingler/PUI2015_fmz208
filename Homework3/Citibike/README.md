@@ -1,4 +1,4 @@
-This work was developed by Jingqin Gao and Fernando Zingler
+##This work was developed by Jingqin Gao and Fernando Zingler
 
 The data waas provided by citibike website (https://www.citibikenyc.com/system-data), and both months of April and August were selected for analysis.
 
