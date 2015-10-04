@@ -21,7 +21,7 @@ significant level 0.05
 The hypothesis (null and alternative) were created by both authors together. Jingqin developed the base code. Fernando reviewed the logic and formulation of the code.
 Jingquin tested the code for April 2015 and Fernando for August 2015. 
 
-#ANALYSIS
+#ANALYSIS AND RESULTS
 
 For both months evaluated, the Null Hypothesis could be rejected. 
 August data is larger then April, but the distribuition for the trips dusring the day are very similar, including same peak hours in the morning/afternoon.
