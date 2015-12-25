@@ -1,0 +1,56 @@
+
+did you try to contact wh937 by email, and me and the TAs when you did not find the plot in the repo. while it is her responsibility to get her homework on th repo, you were expressly told to follow those steps if the plot was missing. other people were assigned to review her plot and she made a plot available.
+
+also you are reviewing the plot here, not the science behind it: " Including an axis just for female or male, or even for race is not a good option, there are other variables more relevance (age, school degree)" is not an appropriate comment in this case, since you are reviewing the display of information.
+
+8/10
+
+
+NOTES ON YOUR PLOT
+===================
+
+the time series are of very different order of magnitude. thus all of them are invisible and cluster at the bottom . log y should be used.
+
+the axis labels are way too small
+
+there are too many time series on the plot. even with log space the result would likely be confusing. 
+
+the color of the time series is repeated leading to complete confusion 
+
+
+
+NOTES ON THE PLOTS YOU REVIEWED
+===========================================
+
+
+bt1085
+============
+
+
+is there a point outside of the plot? the point at the top right is very confusing
+
+it is not explained what the point size represents. 
+
+as it often happens 3D is hard to read and confusing and does not add to the visualization, and in fact it makes it harder to understand where in the space each datapoint lives. 
+
+
+
+tvm237
+============
+
+the 3d is making the plot extremely hard to read. furthermore it is not needed since the third dimension is redundant with the color. the slope of the lines cannot be read clearly due to the perspective. 
+
+axis labels X,Y,Z should be changed to meaningful labels
+
+the orange label is very hard to read. 
+
+the points are larger than needed. in fact they are redundant with the line, though they may add readability to it they would be better smaller. 
+
+the horizontal grid is not needed as the value are categorical, and in fact it seem to be deformed in a way that i dont understand
+
+
+
+
+============
+
+
